@@ -29,3 +29,8 @@ No build step or framework is required. Google Fonts and photography load from e
 
 ## Important before publishing
 Demo ratings, statistics, testimonials, prices, promotion, address, hours, phone, and email are placeholders. Replace them with truthful information. Images use remote URLs and must be checked for licensing/usage rights for your intended commercial deployment. No real booking engine or map embed is included.
+
+
+<img width="3204" height="1840" alt="Image" src="https://github.com/user-attachments/assets/695cf7fa-0ad5-490c-9df4-c65a2b9a3c24" />
+<img width="1464" height="1816" alt="Image" src="https://github.com/user-attachments/assets/76eccffc-ce1c-4040-8fe6-7d4a22f61887" />
+<img width="824" height="1674" alt="Image" src="https://github.com/user-attachments/assets/67f4c5b3-50c1-40c7-aa2c-74c6122e1b29" />
