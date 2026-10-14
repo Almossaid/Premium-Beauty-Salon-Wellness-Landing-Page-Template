@@ -1,0 +1,15 @@
+MAISON ÉLISE STUDIO TEMPLATE — LICENSE & THIRD-PARTY NOTES
+
+Template files
+You may customize and use the HTML, CSS, JavaScript, and documentation in this package for your own projects and for client projects. You may include customized end products in commercial client work.
+
+Resale / redistribution
+Do not redistribute or resell this source package as a competing standalone template in substantially unchanged form. If you plan to sell a derivative template, ensure your marketplace terms and any applicable third-party asset/font licenses permit it.
+
+Third-party resources
+- Google Fonts: Playfair Display and DM Sans are loaded from Google Fonts. Their availability and license are governed by the respective font licenses and Google's service terms.
+- Photography: image URLs point to remote Unsplash-hosted images used as visual placeholders. This package does not include image files or grant any rights to the photos. Verify the current license and suitability for your intended use, or replace all images with assets you own or have licensed.
+- No other third-party JavaScript libraries are required.
+
+Disclaimer
+This package is supplied as a starter template without warranties. You are responsible for reviewing accessibility, performance, privacy, local legal requirements, image rights, business claims, and all content before deployment.
